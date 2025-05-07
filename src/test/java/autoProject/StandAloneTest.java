@@ -20,6 +20,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+		//New Comment is added for Demo pupose
 		
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\ekkant\\Downloads\\chromedriver\\chromedriver.exe");
 		String productName = "ZARA COAT 3";
